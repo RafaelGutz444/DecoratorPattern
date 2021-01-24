@@ -1,4 +1,4 @@
-package Main;
+package Main; // Tests Program
 
 
 public class TwitchStreamStartUp {
