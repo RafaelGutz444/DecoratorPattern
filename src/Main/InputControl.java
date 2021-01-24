@@ -1,4 +1,4 @@
-package Main;
+package Main; // Decorator File
 
 public abstract class InputControl implements TwitchStream {
     protected TwitchStream tempScene;
