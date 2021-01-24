@@ -1,4 +1,4 @@
-package Main;
+package Main; // Unmodified Object
 
 public class emptyScene implements TwitchStream {
 
